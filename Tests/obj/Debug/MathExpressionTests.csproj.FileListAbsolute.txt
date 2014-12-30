@@ -1,0 +1,14 @@
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionTests\bin\Debug\MathExpressionTests.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionTests\bin\Debug\MathExpressionTests.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionTests\bin\Debug\MathExpression.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionTests\bin\Debug\MathExpression.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionTests\obj\Debug\MathExpressionTests.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionTests\obj\Debug\MathExpressionTests.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionTests\obj\Debug\MathExpressionTests.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpressionTests\bin\Debug\MathExpressionTests.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpressionTests\bin\Debug\MathExpressionTests.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpressionTests\bin\Debug\MathExpression.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpressionTests\bin\Debug\MathExpression.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpressionTests\obj\Debug\MathExpressionTests.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpressionTests\obj\Debug\MathExpressionTests.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpressionTests\obj\Debug\MathExpressionTests.pdb

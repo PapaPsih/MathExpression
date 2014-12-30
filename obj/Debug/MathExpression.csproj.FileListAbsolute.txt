@@ -1,0 +1,9 @@
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpression\bin\Debug\MathExpression.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpression\bin\Debug\MathExpression.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpression\obj\Debug\MathExpression.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpression\obj\Debug\MathExpression.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpression\bin\Debug\MathExpression.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpression\bin\Debug\MathExpression.pdb
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpression\obj\Debug\MathExpression.dll
+C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpression\obj\Debug\MathExpression.pdb
