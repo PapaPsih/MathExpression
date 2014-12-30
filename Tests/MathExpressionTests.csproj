@@ -36,7 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MathExpression">
-      <HintPath>..\MathExpression\bin\Debug\MathExpression.dll</HintPath>
+      <HintPath>..\bin\Debug\MathExpression.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>

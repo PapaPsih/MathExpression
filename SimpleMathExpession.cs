@@ -4,28 +4,19 @@ using System.Text.RegularExpressions;
 
 namespace Expression
 {
-    public class SimpleMathExpession
+    public class SimpleMathExpression
     {
-        public SimpleMathExpession(String expression)
+        public SimpleMathExpression(String expression)
         {
-            this.stringExpression = expression;
+            if (SimpleMathExpression.isCorrect(expression))
+                this.stringExpression = expression;
+            else throw new Exception(@"Error! Expression is uncorrect");
         }
 
         private String stringExpression;
 
-        public Boolean IsCorrect()
-        {
-            Regex expressionPattern = new Regex(@"^\d+([\+\-\*\/]{1}\d+)\G?");
-            return expressionPattern.IsMatch(this.stringExpression);
-        }
-
         public Int32 Result()
-        {
-            if (!this.IsCorrect())
-            {
-                throw new Exception("Error! Expression is uncorrect");
-            }
-            
+        {            
             Int32 result = 0;
             Regex number = new Regex(@"\d+");
             MatchCollection matches = number.Matches(this.stringExpression);
@@ -60,14 +51,15 @@ namespace Expression
                             result /= numbers[i];
                             break;
                         }
-                    default:
-                        {
-                            throw new Exception("Error! ");
-                        }
                 }
             }
             return result;
-            
+        }
+
+        private static Boolean isCorrect(String expression)
+        {
+            Regex expressionPattern = new Regex(@"^\d+([\+\-\*\/]{1}\d+)\G?");
+            return expressionPattern.IsMatch(expression);
         }
     }
 }

@@ -10,57 +10,91 @@ namespace MathExpressionTests
         [TestMethod]
         public void IsCorrectPlus()
         {
-            SimpleMathExpession mathExpression = new SimpleMathExpession("12+13");
-            Assert.IsTrue(mathExpression.IsCorrect());
-        }
-
-        [TestMethod]
-        public void IsCorrectMinus()
-        {
-            SimpleMathExpession mathExpression = new SimpleMathExpession("12-13");
-            Assert.IsTrue(mathExpression.IsCorrect());
+            Boolean correct = true;
+            try
+            {
+                SimpleMathExpression mathExpression = new SimpleMathExpression("12+13");
+            }
+            catch
+            {
+                correct = false;
+            }
+            Assert.IsTrue(correct);
         }
 
         [TestMethod]
         public void IsCorrectMultiply()
         {
-            SimpleMathExpession mathExpression = new SimpleMathExpession("12*13");
-            Assert.IsTrue(mathExpression.IsCorrect());
-        }
-
-        [TestMethod]
-        public void IsCorrectDevide()
-        {
-            SimpleMathExpession mathExpression = new SimpleMathExpession("12/13");
-            Assert.IsTrue(mathExpression.IsCorrect());
+            Boolean correct = true;
+            try
+            {
+                SimpleMathExpression mathExpression = new SimpleMathExpression("12*13");
+            }
+            catch
+            {
+                correct = false;
+            }
+            Assert.IsTrue(correct);
         }
 
         [TestMethod]
         public void IsCorrectMultiOperation()
         {
-            SimpleMathExpession mathExpression = new SimpleMathExpession("12+13-12");
-            Assert.IsTrue(mathExpression.IsCorrect());
+            Boolean correct = true;
+            try
+            {
+                SimpleMathExpression mathExpression = new SimpleMathExpression("12+13-12");
+            }
+            catch
+            {
+                correct = false;
+            }
+            Assert.IsTrue(correct);
         }
 
         [TestMethod]
         public void IsCorrectWrongMultiOperation()
         {
-            SimpleMathExpession mathExpression = new SimpleMathExpession("12++13-12");
-            Assert.IsFalse(mathExpression.IsCorrect());
+            Boolean correct = true;
+            try
+            {
+                SimpleMathExpression mathExpression = new SimpleMathExpression("12++13-12");
+            }
+            catch
+            {
+                correct = false;
+            }
+            Assert.IsFalse(correct);
         }
 
         [TestMethod]
         public void IsCorrectWrongExpression()
         {
-            SimpleMathExpession mathExpression = new SimpleMathExpession("12+");
-            Assert.IsFalse(mathExpression.IsCorrect());
+            Boolean correct = true;
+            try
+            {
+                SimpleMathExpression mathExpression = new SimpleMathExpression("12+");
+            }
+            catch
+            {
+                correct = false;
+            }
+            Assert.IsFalse(correct);
         }
 
         [TestMethod]
         public void IsCorrectWord()
         {
-            SimpleMathExpession mathExpression = new SimpleMathExpession("Hello");
-            Assert.IsFalse(mathExpression.IsCorrect());
+            Boolean correct = true;
+            try
+            {
+                SimpleMathExpression mathExpression = new SimpleMathExpression("Hello");
+            }
+            catch
+            {
+                correct = false;
+            }
+            Assert.IsFalse(correct);
         }
     }
 }

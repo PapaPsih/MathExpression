@@ -7,3 +7,7 @@ C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCo
 C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
 C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpression\obj\Debug\MathExpression.dll
 C:\Users\Владимир\Documents\Visual Studio 2012\Projects\MathExpressionCommits\Commit-0.1.0.0\MathExpression\obj\Debug\MathExpression.pdb
+H:\Мои документы\MathExpressionCommits\Current\MathExpression\bin\Debug\MathExpression.dll
+H:\Мои документы\MathExpressionCommits\Current\MathExpression\bin\Debug\MathExpression.pdb
+H:\Мои документы\MathExpressionCommits\Current\MathExpression\obj\Debug\MathExpression.dll
+H:\Мои документы\MathExpressionCommits\Current\MathExpression\obj\Debug\MathExpression.pdb
