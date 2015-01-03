@@ -17,3 +17,4 @@ C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\bin\Deb
 C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
 C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\obj\Debug\MathExpression.dll
 C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\obj\Debug\MathExpression.pdb
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
