@@ -11,3 +11,9 @@ H:\Мои документы\MathExpressionCommits\Current\MathExpression\bin\De
 H:\Мои документы\MathExpressionCommits\Current\MathExpression\bin\Debug\MathExpression.pdb
 H:\Мои документы\MathExpressionCommits\Current\MathExpression\obj\Debug\MathExpression.dll
 H:\Мои документы\MathExpressionCommits\Current\MathExpression\obj\Debug\MathExpression.pdb
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\bin\Debug\MathExpression.dll
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\bin\Debug\MathExpression.pdb
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\obj\Debug\MathExpression.dll
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\obj\Debug\MathExpression.pdb

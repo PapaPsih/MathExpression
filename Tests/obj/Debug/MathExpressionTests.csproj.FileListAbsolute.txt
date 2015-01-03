@@ -19,3 +19,12 @@ H:\Мои документы\MathExpressionCommits\Current\MathExpression\Tests\
 H:\Мои документы\MathExpressionCommits\Current\MathExpression\Tests\obj\Debug\MathExpressionTests.csprojResolveAssemblyReference.cache
 H:\Мои документы\MathExpressionCommits\Current\MathExpression\Tests\bin\Debug\MathExpression.dll
 H:\Мои документы\MathExpressionCommits\Current\MathExpression\Tests\bin\Debug\MathExpression.pdb
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\bin\Debug\MathExpressionTests.dll
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\bin\Debug\MathExpressionTests.pdb
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\bin\Debug\MathExpression.dll
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\bin\Debug\MathExpression.pdb
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\obj\Debug\MathExpressionTests.csprojResolveAssemblyReference.cache
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\obj\Debug\MathExpressionTests.dll
+C:\Users\Po4ta_000\Downloads\MathExpression-master\MathExpression-master\Tests\obj\Debug\MathExpressionTests.pdb

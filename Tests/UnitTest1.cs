@@ -60,7 +60,7 @@ namespace MathExpressionTests
             {
                 SimpleMathExpression mathExpression = new SimpleMathExpression("12++13-12");
             }
-            catch
+            catch 
             {
                 correct = false;
             }
